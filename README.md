@@ -1,4 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Johnson Daniel
+
+## 💡 About Me
+I am an aspiring **Data Analyst** passionate about turning raw data into actionable insights using **SQL**, **Excel** and **PowerBi**.
+My goal is to help businesses make data-driven decisions by creating clear, interactive dashboards and report.
+
+📍 **Location:** Lagos, Nigeria
+
+📧 **Email:** [danieljohnsonk101@gmail.com](mailto:danieljohnsonk101@gmail.com)
+
+🔗**Linkedln:** [www.linkedin.com/in/johnson-daniel-51421b203](https://www.linkedin.com/in/johnson-daniel-51421b203)
+
+## ⚒️ Skills
+
+- **Data Analysis Tools:** Excel, PowerBi
+
+- **Database:** SQL(Querying, Joins, Aggregation)
+
+- **Data Task:** Cleaning, Transformation, Visualisation, Reporting
+
+## 🎯 Career Goal
+To become a **data-driven problem solver**, providing insights that help organisations improve performance and achieve growth.
+
+## 📈 Github Stats
+![Johnson's Github stats](https://github-readme-stats.vercel.app/api?username=JohnsonDaniel-1&show_icon=true&theme=radical)
+
+## 📬 Let's Connect
+- 📫 **danieljohnsonk101@gmail.com**
+- 🔗 [Linkedln](https://www.linkedin.com/in/johnson-daniel-51421b203)
+
+
+
+
 
 <!--
 **JohnsonDaniel-1/JohnsonDaniel-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
