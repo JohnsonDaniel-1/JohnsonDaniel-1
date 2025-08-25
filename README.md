@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Johnson Daniel
 
 ## 💡 About Me
-I am an aspiring **Data Analyst** passionate about turning raw data into actionable insights using **SQL**, **Excel** and **PowerBi**.
+I am a Data Analyst who leverages **SQL**, **Excel**, and **Power BI** to extract valuable insights from complex data sets, driving informed business decisions and strategic growth.
 My goal is to help businesses make data-driven decisions by creating clear, interactive dashboards and report.
 
 📍 **Location:** Lagos, Nigeria
